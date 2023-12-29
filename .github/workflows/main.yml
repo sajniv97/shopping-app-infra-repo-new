@@ -13,6 +13,7 @@ on:
         type: string
         description: 'instance ami'
         required: true
+        default: "ami-02e94b011299ef128"
 
 jobs:
   build:
